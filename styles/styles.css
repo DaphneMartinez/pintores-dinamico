@@ -1,0 +1,23 @@
+h1{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15mm;
+    text-align: center
+}
+
+h2{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: justify;
+}
+p{
+    font-family: Arial, Helvetica, sans-serif;
+text-align: justify;
+font-size: large;
+margin-right: 50px;
+margin-left: 30px;
+}
+img.izquierda {
+    float: left;
+    margin-right: 20px;
+    margin-left: 30px;
+
+  }
